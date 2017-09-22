@@ -15,6 +15,6 @@ Create an one R script called run_analysis.R that does the following:
  #Course requirements - submit the following:
  
 1) a tidy data set as described in step 5 above
-2) a link to a Github repository with a script for performing the analysis
+2) a link to a Github repository with a script for performing the analysis called run_analysis.R
 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
 4) include a README.md in the repo with your scripts.
