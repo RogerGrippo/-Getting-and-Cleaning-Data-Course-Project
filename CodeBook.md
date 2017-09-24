@@ -3,7 +3,7 @@
 ### The tidy data has 180 observations. Each observations has 68 columns.
 Tidy data contains 180 rows and 68 columns. The 180 observations are contain the measurment results for 30 subjects while perfomimg 6 differnect activities
 
-### The six differnt axtivities listed below:
+### The six differnt activities listed below:
 1. WALKING
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
