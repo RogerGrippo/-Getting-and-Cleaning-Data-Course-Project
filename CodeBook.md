@@ -1,22 +1,22 @@
 # Tidy data set description
 
-### The variables in the tidy data
-Tidy data contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity.
+### The tidy data has 180 observations. Each observations has 68 columns.
+Tidy data contains 180 rows and 68 columns. The 180 observations are contain the measurment results for 30 subjects while perfomimg 6 differnect activities
 
-### Only all the variables estimated from mean and standard deviation in the tidy set were kept.
-* mean(): Mean value
-* std(): Standard deviation
-
-### The data were averaged based on subject and activity group.
-
-Subject column is numbered sequentially from 1 to 30.Activity column has 6 types as listed below.
+### The six differnt axtivities listed below:
 1. WALKING
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
-4. SITTING5. STANDING
+4. SITTING
+5. STANDING
 6. LAYING
+Each subject is identified in the "subject" column.
 
-### The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
+### The mean and standard deviation are calculated from the accelerometer and gyroscope measurements for each avtivty for each subject
+
+
+### The 68 columns descriptions are listed below:
+
 1. "activitylabel"
 2. "subject"
 3. "tBodyAcc-mean()-X"          
@@ -86,5 +86,6 @@ Subject column is numbered sequentially from 1 to 30.Activity column has 6 types
 67. "fBodyBodyGyroJerkMag-mean()"
 68. "fBodyBodyGyroJerkMag-std()"
 
-### variable units
+### Variable definitions:
+
 Activity variable is factor type.Subject variable is integer type.All the other variables are numeric type.
