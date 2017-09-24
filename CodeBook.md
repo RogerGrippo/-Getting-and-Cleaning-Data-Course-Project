@@ -10,6 +10,7 @@ Tidy data contains 180 rows and 68 columns. The 180 observations are contain the
 4. SITTING
 5. STANDING
 6. LAYING
+
 Each subject is identified in the "subject" column.
 
 ### The mean and standard deviation are calculated from the accelerometer and gyroscope measurements for each avtivty for each subject
